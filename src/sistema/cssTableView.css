@@ -1,0 +1,24 @@
+.table-view .column-header.colunaIDCaixa .label{ /* Coluna Valor*/
+   -fx-alignment: center-right;
+}
+
+.table-view .column-header.colunaDescricaoCaixa .label{ /* Coluna Data*/
+   -fx-alignment: center;
+}
+
+.table-view .table-cell.colunaVarejoCaixa { /* Célula da coluna Valor*/
+   -fx-alignment: center-right;
+}
+
+.table-view .table-cell.colunaSubtotalCaixa { /* Célula da coluna Data */ 
+   -fx-alignment: center;
+}/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15/10/2019, 11:29:35
+    Author     : LUCAS
+*/
+
